@@ -5,3 +5,6 @@ unikv/unikv
 bin/*
 _tools
 /vendor
+*.exe
+data
+scheduler/default*
